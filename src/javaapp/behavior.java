@@ -8,7 +8,7 @@ import jade.core.behaviours.Behaviour;
 
 /**
  *
- * @author Mohammed
+ * @author MUhammad
  */
 public class behavior  extends Behaviour{
 
