@@ -21,7 +21,7 @@ public class JavaApp {
      jade.core.Runtime  r= jade.core.Runtime.instance();
      
      Profile p = new ProfileImpl("localhost",50120 ,"mohamed" );
-     
+     //done
      ContainerController main1 = r.createMainContainer(p);
         try {
            AgentController rma = main1.createNewAgent("jade", "jade.tools.rma.rma", null);
